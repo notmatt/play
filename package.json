@@ -1,0 +1,8 @@
+{
+  "name": "play",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "author": "trentm@gmail.com",
+  "license": "MIT"
+}
